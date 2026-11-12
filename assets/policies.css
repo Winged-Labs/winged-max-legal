@@ -25,7 +25,6 @@ ul { padding-left: 24px; }
 .eyebrow { color: #5e4bb7; font-size: .83rem; font-weight: 750; letter-spacing: .06em; text-transform: uppercase; }
 .lede { font-size: 1.12rem; color: #454653; }
 .meta { color: #626471; font-size: .92rem; margin-bottom: 28px; }
-.notice { background: #f5f2ff; border-left: 4px solid #6d55d7; padding: 14px 18px; margin: 24px 0; }
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; padding: 0; list-style: none; }
 .cards li { border: 1px solid #e8e6ed; border-radius: 10px; padding: 18px; margin: 0; }
 .cards a { font-weight: 700; }
